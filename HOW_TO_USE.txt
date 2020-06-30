@@ -1,0 +1,3 @@
+Please note that the app will run perfectly only when all the functions are within the same folder as the .mlapp file.
+To use the app simply open the ‘TransmissionLinesCalculator.mlapp’ in matlab and run it.
+Note: In many situation the value zero will not be shown as zero but as a very small value, for eg. 1.2*e^-88.
